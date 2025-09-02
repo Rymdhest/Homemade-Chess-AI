@@ -26,5 +26,6 @@ The result is an AI that can comfortably beat most casual players. It doesn’t 
 ## Screenshots
 <img width="1835" height="1077" alt="chess 1" src="https://github.com/user-attachments/assets/cddcf8ea-a2b4-44d7-9cde-11758dbdba65" />
 
+---
 
 <img width="1907" height="1077" alt="chess 2" src="https://github.com/user-attachments/assets/6209d100-f02f-44f2-b645-1d514770e241" />
